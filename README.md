@@ -1,2 +1,2 @@
 # github-first-trial
-this is going to be my first repository 
+this is my first repository 
